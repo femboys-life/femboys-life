@@ -1,6 +1,14 @@
-<p align="center">
-    <img width="832" src="https://github.com/femboys-life/femboys-life/assets/106478896/5d826376-5a88-4f37-8a94-0f1758caee7d" alt="moneybleeds">
-</p>
-<p align="center">
-// discord - moneybleeds
-</p>
+```py
+>> bio
+```
+
+<img align="left" src="https://i.pinimg.com/564x/30/7f/aa/307faa9f45caf0865e53079a87d6a3a7.jpg" width="150"/>
+
+```py
+  Alias    : B.K.
+  Skillset : Python, Lua
+  Discord  : 1158733089871249538
+  Hobbies  : Eating, Skidding, Coding
+  Likes    : Caprisun, Broccoli
+  Dislikes : Extraterrestrial Beings
+```
